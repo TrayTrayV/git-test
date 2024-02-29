@@ -2,7 +2,7 @@
 Just for an assignment
 
 
-##Guide for running this shell script and some steps that i did.
+#Guide for running this shell script and some steps that i did.
 
 ```
 touch <filename>
