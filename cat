@@ -1,0 +1,12 @@
+#!/bin/sh
+
+#this is just gonna be simple
+
+##Some date format stuff
+DATE="$(date '+%Y-%m-%d')"
+echo "today is $DATE -0-0-0-0-0-0-0-0-0-0-0"
+
+#Cool Music Playlist!
+LINK='https://www.youtube.com/watch?v=W9tkUovsZJ4' 
+
+vlc $LINK
